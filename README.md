@@ -27,9 +27,6 @@
  <div> 
  <a href="https://www.twitch.tv/h1ckzzfps" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/henrique-mazetti-6a4a32143/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   
-![Snake animation](https://github.com/hickassogdf/hickassogdf/blob/output/github-contribution-grid-snake.svg)
- 
-  
- 
 </div>
+  
+ <img src="https://media4.giphy.com/media/j0eRJzyW7XjMpu1Pqd/giphy.gif?cid=ecf05e470ktwditigvlnzip31rmznkykkayd49loo5xh87a3&amp;rid=giphy.gif&amp;ct=g" alt="Cry About It GIF by MOODMAN" style="width: 500px; height: 272.917px; left: 0px; top: 0px; opacity: 0;">
