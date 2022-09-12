@@ -5,12 +5,6 @@
 - 👯 I’m OPEN TO WORK as back end dev - Junior
 - 📫 How to reach me: henriquemazettiferraz@outlook.com 
 
-#<div align="center">
-#  <a href="https://github.com/hickassogdf">
-#  <img height="180em" src="https://github-readme-stats.vercel.app/api?#username=hickassogdf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-#  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hickassogdf&layout=compact&langs_count=7&theme=dracula"/>
-#</div>
-
 <div align="center">
   <a href="https://github.com/hickassogdf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hickassogdf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
