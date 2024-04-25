@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Back-End 
 - 🌱 I’m currently learning Python
-- 👯 I’m working as back end dev - Junior
+- 👯 I’m working as back end dev
 - 📫 How to reach me: henriquemazettiferraz@outlook.com 
 
 <div align="center">
