@@ -1,8 +1,6 @@
 #Hello, I'm Henrique Mazetti
 
-- 🔭 I’m currently working on Back-End 
-- 🌱 I’m currently learning Python
-- 👯 I’m working as back end dev
+- 🔭 I’m currently working as fullstack
 - 📫 How to reach me: henriquemazettiferraz@outlook.com 
 
 <div align="center">
