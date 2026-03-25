@@ -1,6 +1,6 @@
 #Hello, I'm Henrique Mazetti
 
-- 🔭 I’m currently working as fullstack
+- 🔭 I’m currently working as a Senior Full-Stack Developer
 - 📫 How to reach me: henriquemazettiferraz@outlook.com 
 
 
